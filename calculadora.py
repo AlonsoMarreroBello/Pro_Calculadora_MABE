@@ -13,3 +13,12 @@ def division():
 
 def porcentaje():
   pass
+
+
+
+
+suma()
+resta()
+multiplicacion()
+division()
+porcentaje()
