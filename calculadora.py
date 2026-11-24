@@ -3,3 +3,9 @@ def suma():
 
 def resta():
   pass
+
+def multiplicacion():
+  pass
+
+def division():
+  pass
