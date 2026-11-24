@@ -1,4 +1,5 @@
 def suma():
+  print("suma")
   pass
 
 def resta():
