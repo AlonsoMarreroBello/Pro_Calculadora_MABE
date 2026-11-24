@@ -9,3 +9,6 @@ def multiplicacion():
 
 def division():
   pass
+
+def porcentaje():
+  pass
